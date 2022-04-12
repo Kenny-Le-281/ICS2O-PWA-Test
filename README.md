@@ -1,4 +1,4 @@
-# ICS2O-PWA-Template-HTML
+# ICS2O-PWA-Template
 
 [![Mr Coxall's Super Linter](https://github.com/Kenny-Le-281/ICS2O-PWA-Test/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Kenny-Le-281/ICS2O-PWA-Test/actions)
 
