@@ -1,6 +1,8 @@
 // Created by: Kenny Le
-// Created on: Apr 2022
+// Created on: May 2022
 // This file contains the JS functions for index.html
+
+'use strict'
 
 /**
  * Check service worker.
